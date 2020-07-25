@@ -1,6 +1,5 @@
 <?php
 //コンソールでの入出力を記述した実行ファイル
-require("character.php");
 require("rolls.php");
 
 //---------------

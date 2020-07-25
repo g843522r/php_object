@@ -29,7 +29,7 @@ class Character {
   //各ロールに共通する技をクラスメソッドとして定義
   public function attack($name) {
   echo "{$name}の攻撃。\n";
-  echo "敵1体に〇〇のダメージ！\n";
+  echo "PHPドラゴンに〇〇のダメージ！\n";
   }
 }
 

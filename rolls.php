@@ -47,7 +47,7 @@ class Blaster extends Character {
   
   //新たなクラスメソッドとして技を定義
   public function skill($name) {
-    echo "{$name}のファイア！\n";
+    echo "{$name}はファイアを唱えた！\n";
     echo "PHPドラゴンに〇〇のダメージ！\n";
   }
 }
